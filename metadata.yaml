@@ -1,0 +1,36 @@
+_repo: Heroes-of-IsraelText-of-the-Hero-Stories-with-Notes-and-Questions-for-Young-Students_36956
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Soares, Theodore Gerald
+    birthdate: 1869
+    gutenberg_agent_id: '6664'
+    url: http://www.gutenberg.org/2009/agents/6664
+  editor:
+    agent_name: Burton, Ernest DeWitt
+    aliases:
+    - Burton, Ernest D.
+    - Burton, Ernest De Witt
+    birthdate: 1856
+    deathdate: 1925
+    gutenberg_agent_id: '38559'
+    url: http://www.gutenberg.org/2009/agents/38559
+description: ''
+gutenberg_issued: '2011-08-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36956'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bible. Old Testament -- Textbooks'
+- !lcc 'BS'
+title: 'Heroes of Israel
+
+  Text of the Hero Stories with Notes and Questions for Young Students'
+url: http://www.gutenberg.org/ebooks/36956
